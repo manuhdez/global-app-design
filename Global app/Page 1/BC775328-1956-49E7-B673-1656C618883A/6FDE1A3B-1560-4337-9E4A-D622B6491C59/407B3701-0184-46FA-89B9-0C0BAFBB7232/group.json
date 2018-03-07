@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "407B3701-0184-46FA-89B9-0C0BAFBB7232",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "661FFD0D-54B1-4D6F-9CA0-F22F8C3C00C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F5AD13F-31CD-4A3E-B0FF-9AE8898CBAD1"
+    },
+    {
+      "class": "text",
+      "id": "0CBF9E23-5E42-4216-8092-516A6C70B636"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0FAF068-C290-40BF-B2F9-C5F81EEC30C7"
+    }
+  ],
+  "name": "Toolbar contents",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
