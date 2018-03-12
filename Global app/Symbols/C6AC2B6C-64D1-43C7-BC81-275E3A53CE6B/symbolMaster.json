@@ -1,6 +1,14 @@
 {
-  "_class": "page",
-  "do_objectID": "EFEDD289-BE3E-449E-8AE0-5F184DC7C7D4",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 193,
+  "do_objectID": "C6AC2B6C-64D1-43C7-BC81-275E3A53CE6B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +21,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 40,
+    "width": 99,
+    "x": 210,
+    "y": -107
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,38 +44,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "BC775328-1956-49E7-B673-1656C618883A"
-    },
-    {
-      "class": "artboard",
-      "id": "EC3D9990-34C3-42C8-B77C-B869831FBEAA"
-    },
-    {
-      "class": "artboard",
-      "id": "7704CD43-ECC5-4064-AE28-1813537A8D19"
-    },
-    {
       "class": "shapeGroup",
-      "id": "8A0A953D-2AC8-41F3-A924-B357429BE102"
-    },
-    {
-      "class": "artboard",
-      "id": "51D7D10B-B384-41E0-A7CC-7729629B708C"
+      "id": "B3A1AEE7-7ADE-48CC-8F17-5836F82CA151"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "color/global-secondary",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "57CFFA82-8392-49EC-9430-BA798125CA46",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

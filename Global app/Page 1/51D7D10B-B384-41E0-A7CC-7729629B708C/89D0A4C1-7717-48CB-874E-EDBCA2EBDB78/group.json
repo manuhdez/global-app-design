@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "32A94EB9-3F31-41D9-9670-8D4778D4E248",
+  "do_objectID": "89D0A4C1-7717-48CB-874E-EDBCA2EBDB78",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,9 +12,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 56,
-    "width": 56,
+    "constrainProportions": false,
+    "height": 24,
+    "width": 360,
     "x": 0,
     "y": 0
   },
@@ -23,18 +23,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "313466D7-E78E-4245-BC17-77D38839C09E"
+      "id": "889741AF-3FFF-4D3E-8FF7-30E3862CCB5A"
     },
     {
       "class": "symbolInstance",
-      "id": "86266B4D-2C2E-4452-B5B9-1B485F46C717"
+      "id": "B537976E-0930-43C1-AE92-17369102FB1C"
     }
   ],
-  "name": "FAB Normal",
+  "name": "Status bar",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,21 +49,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 56,
-            "enabled": 1,
-            "modelID": "constraint_17c2004f-a17e-4942-b5e2-27b781141d05",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 56
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_7ae50a2f-e46e-4232-bc54-d0e2bbd0d44b",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   }

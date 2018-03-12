@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "BC775328-1956-49E7-B673-1656C618883A",
+  "do_objectID": "51D7D10B-B384-41E0-A7CC-7729629B708C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 407,
+    "x": 1637,
     "y": 133
   },
   "hasBackgroundColor": false,
@@ -52,19 +52,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "D34E9337-6D33-4FA9-8972-9653B6B180CD"
-    },
-    {
-      "class": "group",
-      "id": "6FDE1A3B-1560-4337-9E4A-D622B6491C59"
+      "id": "03FEEBD3-8BB5-454F-972C-34234C61731D"
     },
     {
       "class": "symbolInstance",
-      "id": "01208EE0-9EF2-4275-95A9-C6412A533B25"
+      "id": "58CB4796-F7D3-4B60-83F9-DB1C35C2D748"
+    },
+    {
+      "class": "group",
+      "id": "89D0A4C1-7717-48CB-874E-EDBCA2EBDB78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8DA780D-B6B4-438B-B79C-FA665479960E"
     }
   ],
-  "name": "Mobile",
-  "nameIsFixed": false,
+  "name": "payment/succes > salida",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
