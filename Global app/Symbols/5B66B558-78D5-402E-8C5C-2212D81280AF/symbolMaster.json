@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 115,
+  "changeIdentifier": 403,
   "do_objectID": "5B66B558-78D5-402E-8C5C-2212D81280AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "32A94EB9-3F31-41D9-9670-8D4778D4E248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2EA9811-F8C7-4303-827C-E8046BD341AD"
     }
   ],
   "name": "Call to action",
