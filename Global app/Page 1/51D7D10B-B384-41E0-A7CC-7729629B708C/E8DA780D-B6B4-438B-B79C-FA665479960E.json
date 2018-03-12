@@ -69,19 +69,12 @@
       "do_objectID": "14637C4E-AF37-423A-95FC-7AB7C67BCC8D",
       "overrideName": "B6746ABF-3AF1-439D-AFD9-C2D02086E00A_stringValue",
       "value": "La Garita"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "5FB738A1-2689-43BE-B58C-B9F1F1D96205",
-      "overrideName": "36B69A2F-8F38-4CEF-B80E-FFB9FD8012D2_stringValue",
-      "value": "Cruce Hoya de la Plata"
     }
   ],
   "overrides": {
     "30158871-441E-48D7-A172-BCA250B71FBB": {
       "symbolID": ""
     },
-    "36B69A2F-8F38-4CEF-B80E-FFB9FD8012D2": "Cruce Hoya de la Plata",
     "4885CF92-1C25-494A-8E1D-73A6DB8038D3": "desde:",
     "5AE23E2B-ED83-47AF-B049-535826E8C764": "Las Palmas de G.C. - Vial costero de Telde",
     "AEB11BB3-1D93-4715-8075-7F9BA9900670": "Línea 75",
