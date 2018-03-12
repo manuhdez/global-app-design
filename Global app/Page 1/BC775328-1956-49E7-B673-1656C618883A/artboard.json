@@ -11,15 +11,6 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -56,11 +47,7 @@
     },
     {
       "class": "group",
-      "id": "6FDE1A3B-1560-4337-9E4A-D622B6491C59"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "01208EE0-9EF2-4275-95A9-C6412A533B25"
+      "id": "0F52C225-5C8F-4549-95AC-BCF0A06FED4F"
     }
   ],
   "name": "Mobile",
